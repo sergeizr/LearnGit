@@ -1,3 +1,5 @@
 # LearnGit
-Learning to use Git as a version control
-# Added a new comment
+
+## Editing the file
+
+It's a markdown file in this repository.
